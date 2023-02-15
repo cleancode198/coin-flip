@@ -22,9 +22,9 @@ Technologies used in this project:
 **Smart contract source code is published [here](https://github.com/cleancode198/coin-flip-contract).**
 
 ## About Me
-Hi! 👋 I'm Jin, passionate **web and blockchain developer**. Take a look at my [portfolio](https://tijan.dev).
+Hi! 👋 I'm Jin, passionate **web and blockchain developer**. Take a look at my [portfolio](https://jinkong.netlify.com).
 
-You can get in touch with me through my [website](https://tijan.dev) or contact me on [linkedin](https://linkedin.com/in/jinkong198).
+You can get in touch with me through my [website](https://jinkong.netlify.com) or contact me on [linkedin](https://linkedin.com/in/jinkong198).
 
 Do you like my work? You can support me by donating to this address: 0xf18432a6d3C6f8720227C2856dEE97B6d99357EF
 
